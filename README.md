@@ -1,4 +1,6 @@
-# office-macros
+# Miscellaneous tools and hints used to make it easier to work with text
+
+## Microsoft Word macros
 
 I'll just put here some macros for office applications.
 
